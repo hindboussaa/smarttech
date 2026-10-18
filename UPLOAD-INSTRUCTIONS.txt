@@ -1,0 +1,11 @@
+SMART TECH GUIDE - 10 NEW ARTICLES
+
+1. Extract this ZIP.
+2. Open your GitHub smarttech repository.
+3. Select Add file > Upload files.
+4. Upload index.html and the ten new .html files from this folder.
+5. GitHub may ask you to confirm replacing index.html; keep the new version.
+6. Commit changes and wait for GitHub Pages to deploy.
+7. Visit https://hindboussaa.github.io/smarttech/ and test links.
+
+IMPORTANT: Review and fact-check every article, add firsthand examples and screenshots you own, and edit as needed before publishing. Publishing AI-assisted drafts alone does not guarantee AdSense approval.
